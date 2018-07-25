@@ -23,4 +23,7 @@
 
 추후 운영방법
  - 개선사항은 사용자 및 작가들의 개선사항에 중점을 두어 기능 수정 및 추가
- - 
+
+DB KEY
+ - username(사용자 이름), profile_text(프로필 글), profile_photo(사진), profile_contents_type[(글 성향)] , contents(글,그림) [ 글, 그림 , 컷툰?웹툰? 글 성향],
+ - username(사용자 이름), userid, followingId
